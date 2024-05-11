@@ -1,2 +1,2 @@
 document.write("HELLO WORLD")
-console.log("HELLO REYAN")
+console.log("HELLO Areeb")
